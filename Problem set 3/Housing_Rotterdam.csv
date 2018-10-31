@@ -1,0 +1,493 @@
+"housing_name","housing_price","housing_district","housing_type","housing_area","housing_housemate","housing_furnish","housing_water","housing_gas","housing_electricity","housing_internet","housing_min_rental_period","housing_available_from"
+"Room at Stationsplein","€625","Schiedam, Netherlands","Private room
+in building","Room 19 m2
+Total Unknown m2","19 housemates
+(mixed)","Furnished","included","included","included","included","5 months","Room for rent from 01 Nov 2018"
+"Room at Stationsplein","€600","Schiedam, Netherlands","Private room
+in building","Room 17 m2
+Total Unknown m2","19 housemates
+(mixed)","Furnished","included","included","included","included","5 months","Room for rent from 01 Jan 2019"
+"Room at Stationsplein","€575","Schiedam, Netherlands","Private room
+in building","Room 17 m2
+Total Unknown m2","17 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 01 Nov 2018"
+"Room at Stationsplein","€850","Schiedam, Netherlands","Private room
+in apartment","Room 30 m2
+Total 30 m2","16 housemates
+(mixed)","Furnished","included","included","included","included","3 months","Room for rent from 01 Dec 2018"
+"Room at Stationsplein","€675","Schiedam, Netherlands","Private room
+in building","Room 24 m2
+Total 24 m2","17 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 31 Oct 2018"
+"Room at IJsselmondselaan","€480","Rotterdam, Netherlands","Private room
+in house","Room 12 m2
+Total 12 m2","4 housemates
+(mixed)","Furnished","","included","included","","7 months","Room for rent from 01 Jan 2019"
+"Room at Aristotelesstraat","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 15 m2
+Total 15 m2","Space for
+5 persons (mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Feb 2019"
+"Room at Aristotelesstraat","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 15 m2
+Total 15 m2","Space for
+5 persons (mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Jan 2019"
+"Room at Aristotelesstraat","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 15 m2
+Total 15 m2","Space for
+5 persons (mixed)","Furnished","included","included","included","included","0 months","Room for rent from 16 Jan 2019"
+"Room at Pleinweg","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 12 m2
+Total 70 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 16 Jan 2019"
+"Room at Aristotelesstraat","€500","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 10 m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Room for rent from 31 Oct 2018"
+"Room at Aristotelesstraat","€500","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 10 m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Room for rent from 31 Oct 2018"
+"Room at Aristotelesstraat","€500","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 10 m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Room for rent from 31 Oct 2018"
+"Room at Pleinweg","€700","Rotterdam, Netherlands","Private room
+in apartment","Room 12 m2
+Total 70 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Feb 2019"
+"Apartment at G.B. Shawplaats","€525","Rotterdam, Netherlands","Apartment","Space 85m2","Space for
+3 persons","Furnished","included","included","included","included","6 months","Apartment for rent from 01 Jan 2019"
+"Room at Grote Visserijstraat","€525","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 66 m2","2 housemates
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 28 Jan 2019"
+"Room at Buntgras","€350","Rotterdam, Netherlands","Private room
+in house","Room 12 m2
+Total 150 m2","5 housemates
+(female)","Furnished","included","included","included","included","8 months","Room for rent from 01 Dec 2018"
+"Apartment at Soetendaalsekade","€1100","Rotterdam, Netherlands","Apartment","Space 50m2","Space for
+2 persons","Furnished","included","included","included","included","1 month","Apartment for rent from 01 Jan 2019"
+"Room at Hagastraat","€580","Schiedam, Netherlands","Private room
+in apartment","Room 12 m2
+Total 76 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Hagastraat","€580","Schiedam, Netherlands","Private room
+in apartment","Room 12 m2
+Total 76 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Hagastraat","€500","Schiedam, Netherlands","Private room
+in apartment","Room 7 m2
+Total 76 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from Invalid date"
+"Apartment at Engelsestraat","€750","Rotterdam, Netherlands","Apartment","Space 25m2","Space for
+1 person","Furnished","","","","","0 months","Apartment for rent from 01 Feb 2019"
+"Room at Boterstraat","€560","Schiedam, Netherlands","Private room
+in building","Room 12 m2
+Total 12 m2","Space for
+1 person","Furnished","included","included","included","included","3 months","Room for rent from 31 Dec 2018"
+"Room at Boterstraat","€560","Schiedam, Netherlands","Private room
+in building","Room 12 m2
+Total 12 m2","6 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 21 Dec 2018"
+"Room at Boterstraat","€560","Schiedam, Netherlands","Private room
+in building","Room 12 m2
+Total 12 m2","Space for
+1 person","Furnished","included","included","included","included","3 months","Room for rent from 01 Feb 2019"
+"Room at Boterstraat","€560","Schiedam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 20 m2","6 housemates
+(female)","Furnished","included","included","included","included","3 months","Room for rent from 08 Feb 2019"
+"Room at Tjonger","€570","Rotterdam, Netherlands","Private room
+in apartment","Room 22 m2
+Total 22 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Jan 2019"
+"Apartment at West-Kruiskade","€1100","Rotterdam, Netherlands","Apartment","Space 30m2","Space for
+2 persons","Furnished","included","included","included","included","0 months","Apartment for rent from 01 Feb 2019"
+"Room at Ungerplein","€695","Rotterdam, Netherlands","Private room
+in apartment","Room 19 m2
+Total 19 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Ungerplein","€675","Rotterdam, Netherlands","Private room
+in apartment","Room 17 m2
+Total 17 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Apartment at Gerrit Jan Mulderstraat","€1000","Rotterdam, Netherlands","Apartment","Space 55m2","Space for
+3 persons","Furnished","","","","included","6 months","Apartment for rent from 02 Dec 2018"
+"Room at Dordtselaan","€850","Rotterdam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 177 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 13 Nov 2018"
+"Room at Dordtselaan","€850","Rotterdam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 180 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 09 Nov 2018"
+"Room at Heemraadsplein","€850","Rotterdam, Netherlands","Private room
+in apartment","Room 35 m2
+Total 175 m2","3 housemates
+(mixed)","Furnished","","","","","5 months","Room for rent from 01 Feb 2019"
+"Room at Prinsenlaan","€560","Rotterdam, Netherlands","Private room
+in apartment","Room 12 m2
+Total 12 m2","Space for
+1 person","Furnished","included","included","included","included","1 month","Room for rent from 01 Nov 2018"
+"Room at Ungerplein","€795","Rotterdam, Netherlands","Private room
+in apartment","Room 30 m2
+Total 30 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Prinsenlaan","€560","Rotterdam, Netherlands","Private room
+in apartment","Room 15 m2
+Total 15 m2","Space for
+1 person","Furnished","included","included","included","included","1 month","Room for rent from 01 Nov 2018"
+"Room at Schiedamseweg Beneden","€595","Rotterdam, Netherlands","Private room
+in apartment","Room 12 m2
+Total 70 m2","2 housemates
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 24 Dec 2018"
+"Room at Gedempte Zalmhaven","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 14 m2
+Total 120 m2","1 housemate
+(female)","Furnished","included","included","included","included","1 month","Room for rent from 01 Jan 2019"
+"Apartment at Gerrit Jan Mulderstraat","€1200","Rotterdam, Netherlands","Apartment","Space 55m2","Space for
+3 persons","Furnished","","","","included","0 months","Apartment for rent from 02 Dec 2018"
+"Apartment at Dorpsweg","€1250","Rotterdam, Netherlands","Apartment","Space 75m2","Space for
+2 persons","Furnished","","","","","12 months","Apartment for rent from 01 Feb 2019"
+"Apartment at Admiraliteitskade","€1450","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+2 persons","Furnished","included","included","included","included","1 month","Apartment for rent from 28 Feb 2019"
+"Room at Oppert","€675","Rotterdam, Netherlands","Private room
+in apartment","Room 7 m2
+Total 75 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 16 Dec 2018"
+"Room at Oppert","€675","Rotterdam, Netherlands","Private room
+in apartment","Room 8 m2
+Total 70 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 31 Jan 2019"
+"Apartment at 2e Schansstraat","€1400","Rotterdam, Netherlands","Apartment","Space 60m2","Space for
+2 persons","Furnished","included","included","included","included","3 months","Apartment for rent from 01 Feb 2019"
+"Room at Boerhaavelaan","€520","Schiedam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 20 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 01 Feb 2019"
+"Apartment at 2e Schansstraat","€1500","Rotterdam, Netherlands","Apartment","Space 65m2","Space for
+2 persons","Furnished","included","included","included","included","0 months","Apartment for rent from 02 Jan 2019"
+"Room at Vlinderstraat","€550","Rotterdam, Netherlands","Private room
+in apartment","Room 9 m2
+Total 100 m2","Space for
+1 person (female)","Furnished","included","included","included","included","8 months","Room for rent from 01 Dec 2018"
+"Room at Watertorenweg","€720","Rotterdam, Netherlands","Private room
+in apartment","Room 8 m2
+Total 85 m2","Space for
+1 person","Furnished","included","included","included","included","4 months","Room for rent from 01 Jan 2019"
+"Room at Ahornlaan","€500","Rotterdam, Netherlands","Private room
+in house","Room 9 m2
+Total Unknown m2","2 housemates
+(mixed)","Furnished","","","","","6 months","Room for rent from 02 Feb 2019"
+"Room at Watertorenweg","€740","Rotterdam, Netherlands","Private room
+in apartment","Room 11 m2
+Total 85 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","4 months","Room for rent from 01 Jan 2019"
+"Room at Edisonplein","€550","Schiedam, Netherlands","Private room
+in house","Room 10 m2
+Total 85 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 17 Dec 2018"
+"Room at Sint-Janstraat","€725","Rotterdam, Netherlands","Private room
+in apartment","Room 11 m2
+Total 65 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","1 month","Room for rent from 17 Dec 2018"
+"Room at Gedempte Zalmhaven","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 14 m2
+Total 125 m2","Space for
+1 person","Furnished","included","included","included","included","1 month","Room for rent from 31 Jan 2019"
+"Room at Isaäc Hubertstraat","€800","Rotterdam, Netherlands","Private room
+in apartment","Room 15 m2
+Total 85 m2","2 housemates
+(female)","Furnished","included","included","included","included","5 months","Room for rent from 16 Dec 2018"
+"Room at Akkerwinde","€695","Capelle aan den IJssel, Netherlands","Private room
+in apartment","Room 11 m2
+Total 107 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Feb 2019"
+"Room at Akkerwinde","€685","Capelle aan den IJssel, Netherlands","Private room
+in apartment","Room 11 m2
+Total 107 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Feb 2019"
+"Room at Couwaelstraat","€400","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 75 m2","1 housemate
+(male)","Furnished","included","included","included","included","1 month","Room for rent from 01 Jan 2019"
+"Room at Frans Bekkerstraat","€600","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total 600 m2","1 housemate","Furnished","included","included","included","included","0 months","Room for rent from 23 Dec 2018"
+"Room at Oppert","€800","Rotterdam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 75 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","1 month","Room for rent from 17 Dec 2018"
+"Apartment at Pretorialaan","€1300","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+2 persons","Furnished","","","","","0 months","Apartment for rent from 01 Dec 2018"
+"Room at Grafiek","€700","Capelle aan den IJssel, Netherlands","Private room
+in apartment","Room 8 m2
+Total Unknown m2","2 housemates
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Frans Bekkerstraat","€550","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total Unknown m2","Space for
+1 person","Furnished","included","included","included","included","0 months","Room for rent from 01 Feb 2019"
+"Apartment at Witte de Withstraat","€1100","Rotterdam, Netherlands","Apartment","Space 30m2","Space for
+1 person","Furnished","","","","","0 months","Apartment for rent from 03 Jan 2019"
+"Room at August Vermeijlenpad","€350","Rotterdam, Netherlands","Private room
+in house","Room 13 m2
+Total 13 m2","1 housemate
+(female)","Furnished","included","included","included","included","3 months","Room for rent from 01 Feb 2019"
+"Room at Dunantstraat","€575","Rotterdam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 60 m2","1 housemate
+(female)","Furnished","included","included","included","included","2 months","Room for rent from 01 Feb 2019"
+"Room at Sperwerhof","€350","Capelle aan den IJssel, Netherlands","Private room
+in apartment","Room 10 m2
+Total 10 m2","1 housemate
+(male)","Furnished","included","included","included","included","0 months","Room for rent from 08 Jan 2019"
+"Room at Akkerwinde","€715","Capelle aan den IJssel, Netherlands","Private room
+in apartment","Room 11 m2
+Total 107 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Jan 2019"
+"Apartment at Walenburgerweg","€1700","Rotterdam, Netherlands","Apartment","Space 60m2","Space for
+3 persons","Furnished","included","included","included","included","2 months","Apartment for rent from 02 Feb 2019"
+"Room at Persoonsstraat","€700","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total Unknown m2","1 housemate
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Van Oosterzeestraat","€550","Rotterdam, Netherlands","Private room
+in apartment","Room 14 m2
+Total 110 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","3 months","Room for rent from 01 Feb 2019"
+"Room at Persoonsstraat","€750","Rotterdam, Netherlands","Private room
+in apartment","Room 24 m2
+Total 80 m2","1 housemate
+(female)","Furnished","included","included","included","included","2 months","Room for rent from 01 Feb 2019"
+"Room at Watertorenweg","€750","Rotterdam, Netherlands","Private room
+in apartment","Room 15 m2
+Total 85 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","4 months","Room for rent from 01 Jan 2019"
+"Room at Schietbaanlaan","€800","Rotterdam, Netherlands","Private room
+in apartment","Room 16 m2
+Total 77 m2","1 housemate
+(male)","Furnished","included","included","included","included","2 months","Room for rent from 01 Jan 2019"
+"Room at Sandelingplein","€890","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total 25 m2","3 housemates
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 01 Nov 2018"
+"Apartment at Walenburgerweg","€1850","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+4 persons","Furnished","included","included","included","included","3 months","Apartment for rent from 31 Dec 2018"
+"Apartment at Walenburgerweg","€1850","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+4 persons","Furnished","included","included","included","included","3 months","Apartment for rent from 20 Dec 2018"
+"Room at Sandelingplein","€690","Rotterdam, Netherlands","Shared room
+in apartment","Room 20 m2
+Total 20 m2","5 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 31 Oct 2018"
+"Room at Willem Molenbroekplein","€600","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 88 m2","2 housemates
+(male)","Furnished","included","included","included","included","0 months","Room for rent from 01 Feb 2019"
+"Room at Hoogvlietstraat","€600","Rotterdam, Netherlands","Private room
+in house","Room 15 m2
+Total 90 m2","1 housemate
+(female)","Furnished","included","included","included","included","12 months","Room for rent from 31 Oct 2018"
+"Room at De Savornin Lohmanlaan","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 65 m2","1 housemate
+(male)","Furnished","included","included","included","included","6 months","Room for rent from 01 Jan 2019"
+"Room at Bas Jungeriusstraat","€400","Rotterdam, Netherlands","Private room
+in house","Room 10 m2
+Total Unknown m2","3 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 01 Jan 2019"
+"Room at Swiftstraat","€415","Rotterdam, Netherlands","Private room
+in apartment","Room 10 m2
+Total 70 m2","Space for
+1 person","Not furnished","","","","","5 months","Room for rent from 07 Dec 2018"
+"Room at Bergselaan","€800","Rotterdam, Netherlands","Private room
+in apartment","Room 11 m2
+Total 110 m2","1 housemate
+(female)","Furnished","included","included","included","included","4 months","Room for rent from 01 Feb 2019"
+"Room at Edisonplein","€650","Schiedam, Netherlands","Private room
+in house","Room 20 m2
+Total 85 m2","Space for
+3 persons (mixed)","Furnished","included","included","included","included","2 months","Room for rent from 15 Nov 2018"
+"Room at Oppert","€800","Rotterdam, Netherlands","Private room
+in apartment","Room 19 m2
+Total 75 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","1 month","Room for rent from 01 Feb 2019"
+"Apartment at Burgemeester Meineszlaan","€995","Rotterdam, Netherlands","Apartment","Space 60m2","Space for
+2 persons","Not furnished","","","","","0 months","Apartment for rent from 01 Dec 2018"
+"Room at Sonmansstraat","€575","Rotterdam, Netherlands","Private room
+in apartment","Room 18 m2
+Total 80 m2","1 housemate
+(female)","Furnished","","","","","0 months","Room for rent from 07 Jan 2019"
+"Room at De Lairesselaan","€790","Rotterdam, Netherlands","Private room
+in apartment","Room 14 m2
+Total 14 m2","Space for
+3 persons (mixed)","Furnished","","","","","0 months","Room for rent from 01 Jan 2019"
+"Apartment at Nieuwe Binnenweg","€1300","Rotterdam, Netherlands","Apartment","Space 55m2","Space for
+2 persons","Furnished","","","","","3 months","Apartment for rent from 01 Feb 2019"
+"Apartment at Maaskade","€1500","Rotterdam, Netherlands","Apartment","Space 85m2","Space for
+2 persons","Furnished","","","","","0 months","Apartment for rent from 09 Dec 2018"
+"Room at Dukdalfpad","€525","Rotterdam, Netherlands","Private room
+in house","Room 10 m2
+Total 10 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 19 Dec 2018"
+"Apartment at De Kempenaerstraat","€1300","Rotterdam, Netherlands","Apartment","Space 65m2","Space for
+2 persons","Furnished","","","","","2 months","Apartment for rent from 01 Dec 2018"
+"Apartment at Jufferstraat","€1595","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+2 persons","Furnished","included","included","included","included","3 months","Apartment for rent from 01 Feb 2019"
+"Room at Bas Jungeriusstraat","€575","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total 35 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 29 Dec 2018"
+"Room at Bas Jungeriusstraat","€575","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total 40 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 01 Jan 2019"
+"Room at Essenburgsingel","€410","Rotterdam, Netherlands","Private room
+in building","Room 27 m2
+Total 27 m2","5 housemates
+(mixed)","Furnished","","","","","0 months","Room for rent from 02 Jan 2019"
+"House at Akkerwindestraat","€1400","Rotterdam, Netherlands","House","Space 150m2","Space for
+4 persons","Furnished","included","included","included","included","0 months","House for rent from 12 Jan 2019"
+"House at Beatrijsstraat","€1650","Rotterdam, Netherlands","House","Space 140m2","Space for
+2 persons","Not furnished","","","","included","4 months","House for rent from 04 Nov 2018"
+"Apartment at Nieuwe Binnenweg","€1400","Rotterdam, Netherlands","Apartment","Space 55m2","Space for
+2 persons","Furnished","","","","","3 months","Apartment for rent from 02 Jan 2019"
+"Apartment at Boompjes","€1695","Rotterdam, Netherlands","Apartment","Space 65m2","Space for
+2 persons","Furnished","included","included","included","included","3 months","Apartment for rent from 01 Jan 2019"
+"Apartment at Churchillplein","€1650","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+2 persons","Furnished","included","included","included","included","4 months","Apartment for rent from 02 Jan 2019"
+"Room at Van Oosterzeestraat","€800","Rotterdam, Netherlands","Private room
+in apartment","Room 14 m2
+Total 110 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","3 months","Room for rent from 01 Feb 2019"
+"Apartment at Wijnbrugstraat","€1650","Rotterdam, Netherlands","Apartment","Space 85m2","Space for
+2 persons","Furnished","included","included","included","included","6 months","Apartment for rent from 01 Feb 2019"
+"Room at Bas Jungeriusstraat","€600","Rotterdam, Netherlands","Private room
+in apartment","Room 40 m2
+Total 40 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","1 month","Room for rent from 01 Jan 2019"
+"Room at Peppelweg","€450","Rotterdam, Netherlands","Private room
+in apartment","Room 35 m2
+Total 80 m2","1 housemate
+(male)","Furnished","included","included","included","included","1 month","Room for rent from 18 Jan 2019"
+"Apartment at Schepenstraat","€1500","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+2 persons","Furnished","included","included","included","included","0 months","Apartment for rent from 01 Dec 2018"
+"Apartment at Abraham Kuyperlaan","€1500","Rotterdam, Netherlands","Apartment","Space 85m2","Space for
+2 persons","Furnished","included","included","included","included","0 months","Apartment for rent from 01 Nov 2018"
+"Room at Madeliefstraat","€750","Rotterdam, Netherlands","Private room
+in apartment","Room 16 m2
+Total 75 m2","1 housemate","Furnished","included","included","included","included","12 months","Room for rent from 31 Oct 2018"
+"Apartment at Oude Binnenweg","€1350","Rotterdam, Netherlands","Apartment","Space 35m2","Space for
+1 person","Furnished","included","included","included","included","2 months","Apartment for rent from 04 Dec 2018"
+"Apartment at Rose Spoorstraat","€1300","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+3 persons","Furnished","","","","","0 months","Apartment for rent from 01 Jan 2019"
+"Apartment at Westersingel","€1790","Rotterdam, Netherlands","Apartment","Space 50m2","Space for
+2 persons","Furnished","included","included","included","included","0 months","Apartment for rent from 31 Oct 2018"
+"Room at Bas Jungeriusstraat","€550","Rotterdam, Netherlands","Private room
+in house","Room 16 m2
+Total 18 m2","4 housemates
+(mixed)","Furnished","included","included","included","included","2 months","Room for rent from 16 Dec 2018"
+"Apartment at Saftlevenstraat","€995","Rotterdam, Netherlands","Apartment","Space 25m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Saftlevenstraat","€995","Rotterdam, Netherlands","Apartment","Space 25m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Saftlevenstraat","€995","Rotterdam, Netherlands","Apartment","Space 25m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Apartment for rent from 03 Dec 2018"
+"Room at Bas Jungeriusstraat","€575","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total 25 m2","Space for
+1 person","Furnished","included","included","included","included","1 month","Room for rent from 26 Dec 2018"
+"Room at Sandelingplein","€890","Rotterdam, Netherlands","Private room
+in apartment","Room 18 m2
+Total 20 m2","6 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Nov 2018"
+"Room at Bas Jungeriusstraat","€400","Rotterdam, Netherlands","Private room
+in apartment","Room 6 m2
+Total 6 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","1 month","Room for rent from 24 Dec 2018"
+"Room at Ceintuurbaan","€850","Rotterdam, Netherlands","Private room
+in apartment","Room 16 m2
+Total 90 m2","3 housemates
+(female)","Furnished","included","included","included","included","6 months","Room for rent from 31 Oct 2018"
+"Apartment at Jufferstraat","€1775","Rotterdam, Netherlands","Apartment","Space 80m2","Space for
+3 persons","Furnished","included","included","included","included","5 months","Apartment for rent from 01 Dec 2018"
+"Room at Schiedamsedijk","€750","Rotterdam, Netherlands","Private room
+in apartment","Room 25 m2
+Total 85 m2","1 housemate
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 03 Dec 2018"
+"Room at 1e Middellandstraat","€650","Rotterdam, Netherlands","Private room
+in apartment","Room 9 m2
+Total Unknown m2","Space for
+1 person","Furnished","included","included","included","included","4 months","Room for rent from 01 Feb 2019"
+"Room at Kalmoesstraat","€888","Hoogvliet, Netherlands","Private room
+in apartment","Room 8 m2
+Total 75 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Apartment at Lodewijk Pincoffsweg","€1495","Rotterdam, Netherlands","Apartment","Space 95m2","Space for
+2 persons","Furnished","","","","included","12 months","Apartment for rent from 31 Oct 2018"
+"Room at Kalmoesstraat","€919","Hoogvliet, Netherlands","Private room
+in apartment","Room 11 m2
+Total 75 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Kalmoesstraat","€999","Hoogvliet, Netherlands","Private room
+in apartment","Room 12 m2
+Total 75 m2","3 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 31 Oct 2018"
+"Room at Lambertusstraat","€540","Rotterdam, Netherlands","Private room
+in house","Room 20 m2
+Total 20 m2","9 housemates
+(female)","Furnished","included","included","included","included","0 months","Room for rent from 01 Nov 2018"
+"Room at Zoutziedersstraat","€550","Rotterdam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 20 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","6 months","Room for rent from 11 Feb 2019"
+"Room at 1e Middellandstraat","€850","Rotterdam, Netherlands","Private room
+in apartment","Room 8 m2
+Total Unknown m2","3 housemates
+(mixed)","Furnished","included","included","included","included","1 month","Room for rent from 20 Jan 2019"
+"Apartment at Kralinger Esch","€1000","Rotterdam, Netherlands","Apartment","Space 45m2","Space for
+2 persons","Furnished","","","","","0 months","Apartment for rent from 01 Dec 2018"
+"Apartment at 's-Gravendijkwal","€1450","Rotterdam, Netherlands","Apartment","Space 100m2","Space for
+2 persons","Furnished","","","","included","12 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Boterstraat","€1400","Schiedam, Netherlands","Apartment","Space 100m2","Space for
+2 persons","Furnished","included","included","included","included","6 months","Apartment for rent from 31 Oct 2018"
+"Room at Hebronstraat","€575","Rotterdam, Netherlands","Private room
+in apartment","Room 20 m2
+Total 130 m2","3 housemates
+(female)","Furnished","included","included","included","included","7 months","Room for rent from 31 Oct 2018"
+"Apartment at Jan Pettersonstraat","€1500","Rotterdam, Netherlands","Apartment","Space 93m2","Space for
+3 persons","Not furnished","","","","","0 months","Apartment for rent from 05 Nov 2018"
+"Room at Zoutziedersstraat","€550","Rotterdam, Netherlands","Private room
+in apartment","Room 18 m2
+Total 18 m2","2 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 01 Dec 2018"
+"Apartment at Mathenesserlaan","€1485","Rotterdam, Netherlands","Apartment","Space 40m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Apartment for rent from 31 Oct 2018"
+"Room at Jacoba van Beierenlaan","€328","Delft, Netherlands","Private room
+in building","Room 16 m2
+Total 16 m2","15 housemates
+(mixed)","Furnished","included","included","included","included","0 months","Room for rent from 26 Nov 2018"
+"Apartment at Narcissenstraat","€1725","Rotterdam, Netherlands","Apartment","Space 100m2","Space for
+3 persons","Furnished","included","included","included","included","12 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Schieweg","€1500","Rotterdam, Netherlands","Apartment","Space 105m2","Space for
+3 persons","Not furnished","","","","","0 months","Apartment for rent from 01 Nov 2018"
+"Apartment at Piet Smitkade","€1650","Rotterdam, Netherlands","Apartment","Space 81m2","Space for
+3 persons","Furnished","","","","","0 months","Apartment for rent from 01 Nov 2018"
+"Apartment at De Lairesselaan","€1600","Rotterdam, Netherlands","Apartment","Space 70m2","Space for
+3 persons","Furnished","included","included","included","included","1 month","Apartment for rent from 10 Dec 2018"
+"Apartment at Mathenesserlaan","€1485","Rotterdam, Netherlands","Apartment","Space 40m2","Space for
+1 person","Furnished","included","included","included","included","6 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Kees Pijlstraat","€1700","Rotterdam, Netherlands","Apartment","Space 102m2","Space for
+3 persons","Not furnished","","","","","0 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Sonoystraat","€1600","Rotterdam, Netherlands","Apartment","Space 70m2","Space for
+3 persons","Not furnished","","","","","0 months","Apartment for rent from 01 Nov 2018"
+"Apartment at Botersloot","€1800","Rotterdam, Netherlands","Apartment","Space 75m2","Space for
+2 persons","Furnished","included","included","included","included","6 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Meester L.A. Kesperweg","€1585","Vlaardingen, Netherlands","Apartment","Space 85m2","Space for
+3 persons","Furnished","included","included","included","included","3 months","Apartment for rent from 07 Jan 2019"
+"Apartment at Claes de Vrieselaan","€1700","Rotterdam, Netherlands","Apartment","Space 75m2","Space for
+2 persons","Furnished","","","","","6 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Rochussenstraat","€2200","Rotterdam, Netherlands","Apartment","Space 100m2","Space for
+3 persons","Furnished","included","included","included","included","0 months","Apartment for rent from 31 Oct 2018"
+"Apartment at Banierstraat","€1600","Rotterdam, Netherlands","Apartment","Space 70m2","Space for
+2 persons","Furnished","","","","","0 months","Apartment for rent from 31 Dec 2018"
